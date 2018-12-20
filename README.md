@@ -1,4 +1,5 @@
 # Sample Python app for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/Wardy1/WebApp1/_apis/build/status/wardy1.pipelines-python-django?branchName=master)](https://dev.azure.com/Wardy1/WebApp1/_build/latest?definitionId=1?branchName=master)
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
